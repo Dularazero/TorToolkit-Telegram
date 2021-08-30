@@ -5,16 +5,16 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "05324caf2f243a4fd0778c53489ed5fd"
+        API_ID = 7857909
+        BOT_TOKEN = "1954378509:AAFAD6IDp5QFgwfho8YjZsMbbO6MYXDuYMc"
+        BASE_URL_OF_BOT = "http://t.me/MPMSatan_bot"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = []
+        ALD_USR = [1906746907,h]
         OWNER_ID = 0
         
         # Google Drive Index Link should include the base dir also See readme for more info
